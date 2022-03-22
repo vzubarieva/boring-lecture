@@ -1,15 +1,6 @@
-h2.intro {
+.intro {
   color: blue;
   text-align: center;
   width: 50%;
   font-style: italic;
-}
-
-p.intro {
-  width: 30%;
-  font-style: italic;
-}
-
-img.intro{
-  width: auto;
 }
